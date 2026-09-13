@@ -373,7 +373,7 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishPhoneix&theme=dark&no-frame=true&no-bg=true&column=6" width="95%" alt="GitHub Trophies" />
+<img src="./trophy.svg" width="95%" alt="GitHub Trophies" />
 
 </div>
 
