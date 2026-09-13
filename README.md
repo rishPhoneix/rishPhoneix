@@ -18,12 +18,15 @@
 <a href="https://github.com/rishPhoneix">
 <img src="https://img.shields.io/badge/Portfolio-GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/rishita-singh-5843491bb">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:rishitasingh3457@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/rishPhoneix">
 <img src="https://img.shields.io/badge/GitHub-rishPhoneix-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -370,7 +373,7 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishPhoneix&theme=dark_dimmed&no-frame=true&no-bg=true&column=6" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=rishPhoneix&theme=dark&no-frame=true&no-bg=true&column=6" width="95%" alt="GitHub Trophies" />
 
 </div>
 
@@ -380,7 +383,7 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishPhoneix&theme=react-dark&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishPhoneix&theme=react-dark&bg_color=0D1117&color=9D7CFF&line=6A0DAD&point=FFFFFF&area_color=6A0DAD&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity" />
 
 </div>
 
