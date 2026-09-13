@@ -383,7 +383,7 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishPhoneix&theme=react-dark&bg_color=0D1117&color=9D7CFF&line=6A0DAD&point=FFFFFF&area_color=6A0DAD&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity" />
+<img src="https://raw.githubusercontent.com/rishPhoneix/rishPhoneix/output/activity-graph.svg" width="95%" alt="GitHub Contribution Activity" />
 
 </div>
 
