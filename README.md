@@ -10,7 +10,8 @@
 
 <img src="https://img.shields.io/badge/B.Tech-ECE-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/MAKAUT-8.21%20SGPA-4B0082?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-4169E1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Final%20Year-2026-4169E1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kolkata-West%20Bengal-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
@@ -43,9 +44,9 @@ I am a **final-year Electronics & Communication Engineering student** with hands
 
 My programming background includes **Java, Kotlin, C, C++, and Python**, with practical experience building Android applications using **Fragment Architecture, Navigation Graph, Intent-driven Navigation, and SQLite**.
 
-I also work with **Arduino Uno, ESP8266, ESP32-CAM, Raspberry Pi 4B, I2C, Wi-Fi, and UART**, combining software with hardware to build practical engineering systems.
+I also work with **Arduino Uno, ESP8266, ESP32-CAM, Raspberry Pi 4B, I2C, Wi-Fi, and UART**, combining software and hardware to build practical engineering systems.
 
-My projects span Android applications, processor simulation, database-driven utilities, robotics, wireless sensor systems, and embedded control.
+My projects span **Android applications, processor simulation, database-driven utilities, robotics, wireless sensor systems, and embedded control**.
 
 ### Open To
 
@@ -61,13 +62,13 @@ My projects span Android applications, processor simulation, database-driven uti
 <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,python" />
 </p>
 
-### Frontend / Application Development
+### Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=androidstudio" />
 </p>
 
-`Fragment Architecture` · `Navigation Graph` · `Intent-driven Navigation` · `Android UI Development`
+`Android UI Development` · `Fragment Architecture` · `Navigation Graph` · `Intent-driven Navigation`
 
 ### Backend & Databases
 
@@ -89,11 +90,11 @@ My projects span Android applications, processor simulation, database-driven uti
 
 ## AI / ML Expertise
 
-| Domain                  | Proficiency | Details                                                               |
-| ----------------------- | ----------- | --------------------------------------------------------------------- |
-| Artificial Intelligence | Exploring   | Building foundational familiarity                                     |
-| Machine Learning        | Exploring   | No specific ML technology or project is listed in the provided resume |
-| AI / ML Development     | Exploring   | Currently developing broader technical exposure                       |
+| Domain | Proficiency | Details |
+|---|---|---|
+| Artificial Intelligence | Exploring | Building foundational familiarity |
+| Machine Learning | Exploring | Developing foundational technical exposure |
+| AI / ML Development | Exploring | Exploring AI/ML concepts alongside software development |
 
 ---
 
@@ -104,22 +105,22 @@ My projects span Android applications, processor simulation, database-driven uti
 
 An Android-based 8086 processor simulator implementing core x86 instructions with register, flag, memory, and instruction-set management.
 
-| Category        | Details                                                     |
-| --------------- | ----------------------------------------------------------- |
-| **Stack**       | Kotlin · Android Studio · SQLite                            |
-| **Scale**       | 20–25 core x86 opcodes · 6 UI screens · 100+ memory records |
-| **Performance** | Local SQLite-backed application architecture                |
-| **Security**    | Local application data storage                              |
-| **Impact**      | Interactive processor instruction and state simulation      |
-| **Repository**  | [GitHub Profile](https://github.com/rishPhoneix)            |
+| Category | Details |
+|---|---|
+| **Stack** | Kotlin · Android Studio · SQLite |
+| **Scale** | 20–25 core x86 opcodes · 6 UI screens · 100+ memory records |
+| **Performance** | Local SQLite-backed application architecture |
+| **Security** | Local application data storage |
+| **Impact** | Interactive processor instruction and state simulation |
+| **Repository** | [GitHub](https://github.com/rishPhoneix) |
 
-**Engineering Work**
+### Engineering Work
 
-* Implemented `MOV`, `ADD`, `SUB`, `INC`, `DEC`, `CMP`, and `JMP`.
-* Implemented register and flag state management.
-* Built Splash, Login, Signup, Home, Instruction Set, and Memory/Register Viewer screens.
-* Designed a normalized three-table SQLite backend.
-* Validated database functionality using 100+ memory records.
+- Implemented `MOV`, `ADD`, `SUB`, `INC`, `DEC`, `CMP`, and `JMP`.
+- Implemented register and flag state management.
+- Built Splash, Login, Signup, Home, Instruction Set, and Memory/Register Viewer screens.
+- Designed a normalized three-table SQLite backend.
+- Validated database functionality using 100+ memory records.
 
 </details>
 
@@ -128,21 +129,21 @@ An Android-based 8086 processor simulator implementing core x86 instructions wit
 
 An Android application for storing and displaying countries and their currencies using a SQLite backend.
 
-| Category        | Details                                                             |
-| --------------- | ------------------------------------------------------------------- |
-| **Stack**       | Java · Kotlin · Android Studio · SQLite                             |
-| **Scale**       | Database-backed Android utility application                         |
-| **Performance** | Local database operations                                           |
-| **Security**    | Local SQLite data storage                                           |
-| **Impact**      | Database integration and structured Android application development |
-| **Repository**  | [GitHub Profile](https://github.com/rishPhoneix)                    |
+| Category | Details |
+|---|---|
+| **Stack** | Java · Kotlin · Android Studio · SQLite |
+| **Scale** | Database-backed Android utility application |
+| **Performance** | Local database operations |
+| **Security** | Local SQLite data storage |
+| **Impact** | Database integration and structured Android application development |
+| **Repository** | [GitHub](https://github.com/rishPhoneix) |
 
-**Engineering Work**
+### Engineering Work
 
-* Built the Android application.
-* Integrated SQLite for country and currency data.
-* Implemented database-backed data retrieval.
-* Worked with structured local data storage.
+- Built the Android application.
+- Integrated SQLite for country and currency data.
+- Implemented database-backed data retrieval.
+- Worked with structured local data storage.
 
 </details>
 
@@ -151,21 +152,21 @@ An Android application for storing and displaying countries and their currencies
 
 An Android task-management application using modular fragments and intent-based navigation.
 
-| Category        | Details                                            |
-| --------------- | -------------------------------------------------- |
-| **Stack**       | Java · Kotlin · Android · Fragments · Intents      |
-| **Scale**       | Modular Android application                        |
-| **Performance** | Lightweight application architecture               |
-| **Security**    | Local application data handling                    |
-| **Impact**      | Demonstrates modular UI and navigation development |
-| **Repository**  | [GitHub Profile](https://github.com/rishPhoneix)   |
+| Category | Details |
+|---|---|
+| **Stack** | Java · Kotlin · Android · Fragments · Intents |
+| **Scale** | Modular Android application |
+| **Performance** | Lightweight application architecture |
+| **Security** | Local application data handling |
+| **Impact** | Modular UI and navigation development |
+| **Repository** | [GitHub](https://github.com/rishPhoneix) |
 
-**Engineering Work**
+### Engineering Work
 
-* Built modular application screens using Fragments.
-* Implemented intent-based navigation.
-* Developed the task-management workflow.
-* Created a user-oriented Android interface.
+- Built modular application screens using Fragments.
+- Implemented intent-based navigation.
+- Developed the task-management workflow.
+- Created a user-oriented Android interface.
 
 </details>
 
@@ -174,21 +175,21 @@ An Android task-management application using modular fragments and intent-based 
 
 An Android application prototype containing exercise models, GIF handling, and workout tracking functionality.
 
-| Category        | Details                                                  |
-| --------------- | -------------------------------------------------------- |
-| **Stack**       | Java · Kotlin · Android Studio                           |
-| **Scale**       | Android application prototype                            |
-| **Performance** | Local application architecture                           |
-| **Security**    | Local application data                                   |
-| **Impact**      | Exercise modelling, media handling, and workout tracking |
-| **Repository**  | [GitHub Profile](https://github.com/rishPhoneix)         |
+| Category | Details |
+|---|---|
+| **Stack** | Java · Kotlin · Android Studio |
+| **Scale** | Android application prototype |
+| **Performance** | Local application architecture |
+| **Security** | Local application data |
+| **Impact** | Exercise modelling, media handling, and workout tracking |
+| **Repository** | [GitHub](https://github.com/rishPhoneix) |
 
-**Engineering Work**
+### Engineering Work
 
-* Created exercise models.
-* Implemented GIF handling.
-* Developed workout tracking functionality.
-* Built Android application components and interaction flows.
+- Created exercise models.
+- Implemented GIF handling.
+- Developed workout tracking functionality.
+- Built Android application components and interaction flows.
 
 </details>
 
@@ -197,24 +198,24 @@ An Android application prototype containing exercise models, GIF handling, and w
 
 A six-degree-of-freedom robotic arm integrating Arduino Uno, PCA9685, six MG995 servo motors, ESP32-CAM, and Raspberry Pi 4B.
 
-| Category        | Details                                                         |
-| --------------- | --------------------------------------------------------------- |
-| **Stack**       | Arduino Uno · C/C++ · PCA9685 · ESP32-CAM · Raspberry Pi 4B     |
-| **Scale**       | 6-DOF · 6 MG995 servo motors · 6-member team                    |
-| **Performance** | Multi-servo control with regulated power supply                 |
-| **Security**    | Hardware-level power and connection validation                  |
-| **Impact**      | Robotics, I2C communication, servo control, and visual feedback |
-| **Repository**  | [GitHub Profile](https://github.com/rishPhoneix)                |
+| Category | Details |
+|---|---|
+| **Stack** | Arduino Uno · C/C++ · PCA9685 · ESP32-CAM · Raspberry Pi 4B |
+| **Scale** | 6-DOF · 6 MG995 servo motors · 6-member team |
+| **Performance** | Multi-servo control with regulated power supply |
+| **Security** | Hardware-level power and connection validation |
+| **Impact** | Robotics, I2C communication, servo control, and visual feedback |
+| **Repository** | [GitHub](https://github.com/rishPhoneix) |
 
-**Engineering Work**
+### Engineering Work
 
-* Designed and built a six-degree-of-freedom robotic arm.
-* Controlled six MG995 servo motors using a PCA9685 I2C driver.
-* Interfaced the driver with Arduino Uno.
-* Diagnosed power instability under multi-servo load.
-* Implemented multiple buck converters for stable voltage regulation.
-* Integrated ESP32-CAM for visual feedback.
-* Explored Raspberry Pi 4B for higher-level control.
+- Designed and built a six-degree-of-freedom robotic arm.
+- Controlled six MG995 servo motors using a PCA9685 I2C driver.
+- Interfaced the driver with Arduino Uno.
+- Diagnosed power instability under multi-servo load.
+- Implemented multiple buck converters for stable voltage regulation.
+- Integrated ESP32-CAM for visual feedback.
+- Explored Raspberry Pi 4B for higher-level control.
 
 </details>
 
@@ -223,22 +224,22 @@ A six-degree-of-freedom robotic arm integrating Arduino Uno, PCA9685, six MG995 
 
 A real-time wireless environmental monitoring system using Arduino and ESP8266.
 
-| Category        | Details                                           |
-| --------------- | ------------------------------------------------- |
-| **Stack**       | ESP8266 · Arduino IDE · C++ · Wi-Fi               |
-| **Scale**       | Temperature and humidity readings every 5 seconds |
+| Category | Details |
+|---|---|
+| **Stack** | ESP8266 · Arduino IDE · C++ · Wi-Fi |
+| **Scale** | Temperature and humidity readings every 5 seconds |
 | **Performance** | Continuous wireless monitoring and remote logging |
-| **Security**    | Local wireless IoT architecture                   |
-| **Impact**      | Sensor integration and wireless data transmission |
-| **Repository**  | [GitHub Profile](https://github.com/rishPhoneix)  |
+| **Security** | Local wireless IoT architecture |
+| **Impact** | Sensor integration and wireless data transmission |
+| **Repository** | [GitHub](https://github.com/rishPhoneix) |
 
-**Engineering Work**
+### Engineering Work
 
-* Built a real-time sensor node.
-* Read temperature and humidity at five-second intervals.
-* Transmitted sensor data wirelessly through ESP8266.
-* Implemented continuous remote data logging with live display.
-* Tested the system for stable extended operation.
+- Built a real-time sensor node.
+- Read temperature and humidity at five-second intervals.
+- Transmitted sensor data wirelessly through ESP8266.
+- Implemented continuous remote data logging with live display.
+- Tested the system for stable extended operation.
 
 </details>
 
@@ -247,21 +248,21 @@ A real-time wireless environmental monitoring system using Arduino and ESP8266.
 
 A four-directional Wi-Fi-controlled robotics car using Arduino and ESP8266.
 
-| Category        | Details                                                                 |
-| --------------- | ----------------------------------------------------------------------- |
-| **Stack**       | Arduino · ESP8266 · C++ · Wi-Fi                                         |
-| **Scale**       | 4-directional control · 20–30 m indoor range · up to 50 m outdoor range |
-| **Performance** | Real-time remote operation through ESP8266 web server                   |
-| **Security**    | Local Wi-Fi control architecture                                        |
-| **Impact**      | Wireless communication, motor control, and embedded systems             |
-| **Repository**  | [GitHub Profile](https://github.com/rishPhoneix)                        |
+| Category | Details |
+|---|---|
+| **Stack** | Arduino · ESP8266 · C++ · Wi-Fi |
+| **Scale** | 4-directional control · 20–30 m indoor range · up to 50 m outdoor range |
+| **Performance** | Real-time remote operation through ESP8266 web server |
+| **Security** | Local Wi-Fi control architecture |
+| **Impact** | Wireless communication, motor control, and embedded systems |
+| **Repository** | [GitHub](https://github.com/rishPhoneix) |
 
-**Engineering Work**
+### Engineering Work
 
-* Built four-directional movement control.
-* Integrated motor-driver control.
-* Implemented ESP8266 web-server commands.
-* Achieved approximately 20–30 m indoor range and up to 50 m outdoor range during testing.
+- Built four-directional movement control.
+- Integrated motor-driver control.
+- Implemented ESP8266 web-server commands.
+- Achieved approximately 20–30 m indoor range and up to 50 m outdoor range during testing.
 
 </details>
 
@@ -275,14 +276,14 @@ A four-directional Wi-Fi-controlled robotics car using Arduino and ESP8266.
 
 Hands-on Android development experience involving Java/Kotlin, Fragment Architecture, Navigation Graph, SQLite, UI development, navigation flows, and local database integration.
 
-**Scope of Work**
+### Scope of Work
 
-* Built 3 Android applications using Java/Kotlin.
-* Developed an 8086 Processor Simulator supporting 20+ instructions.
-* Designed SQLite tables for registers, segments, and memory.
-* Implemented CRUD operations and test-data validation.
-* Worked on UI modules and navigation flows.
-* Integrated local database functionality across Android projects.
+- Built **3 Android applications** using Java/Kotlin.
+- Developed an **8086 Processor Simulator** supporting 20+ instructions.
+- Designed SQLite tables for registers, segments, and memory.
+- Implemented CRUD operations and test-data validation.
+- Worked on UI modules and navigation flows.
+- Integrated local database functionality across Android projects.
 
 `Java` `Kotlin` `Android Studio` `SQLite` `Fragments` `Navigation Graph`
 
@@ -292,13 +293,13 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-| Recognition          | Details                                                    |
-| -------------------- | ---------------------------------------------------------- |
-| Academic Performance | B.Tech — 8.21 / 10 SGPA                                    |
-| Technical Workshops  | Attended 3 workshops in Robotics and Emerging Technologies |
-| Technical Activities | Participated in College Fest and Tech Fest                 |
-| Community            | Member, NDLI Club — National Digital Library of India      |
-| Volunteering         | Volunteered in cultural programs                           |
+| Recognition | Details |
+|---|---|
+| Academic Performance | B.Tech — 8.21 / 10 SGPA |
+| Technical Workshops | Attended 3 workshops in Robotics and Emerging Technologies |
+| Technical Activities | Participated in College Fest and Tech Fest |
+| Community | Member, NDLI Club — National Digital Library of India |
+| Volunteering | Volunteered in cultural programs |
 
 </div>
 
@@ -308,10 +309,12 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Not%20Provided-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Not%20Provided-6A0DAD?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Not%20Provided-4169E1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cisco-Not%20Provided-4B0082?style=for-the-badge&logo=cisco&logoColor=white"/>
+| Provider | Certifications |
+|---|---|
+| AWS | — |
+| Oracle | — |
+| NPTEL | — |
+| Cisco | — |
 
 </div>
 
@@ -331,9 +334,15 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 </div>
 
+<br/>
+
+<div align="center">
+
 <a href="https://leetcode.com/u/Rishu_0827/">
-<img src="https://leetcard.jacoblin.cool/Rishu_0827?theme=dark&font=Baloo%202&ext=heatmap" alt="Rishu_0827 LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/Rishu_0827?theme=dark&font=Baloo%202&ext=heatmap" alt="Rishu_0827 LeetCode Statistics"/>
 </a>
+
+</div>
 
 ---
 
@@ -361,7 +370,7 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishPhoneix&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=rishPhoneix&theme=dark_dimmed&no-frame=true&no-bg=true&column=6" width="95%" />
 
 </div>
 
@@ -371,7 +380,7 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishPhoneix&bg_color=0D1117&color=9D7CFF&line=6A0DAD&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishPhoneix&theme=react-dark&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -381,7 +390,11 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rishPhoneix/rishPhoneix/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishPhoneix/rishPhoneix/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishPhoneix/rishPhoneix/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rishPhoneix/rishPhoneix/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -412,43 +425,3 @@ open_to:
   - Freelance
   - Full-Time Opportunities
   - Open Source Collaboration
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:rishitasingh3457@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rishitasingh3457%40gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rishita-singh-5843491bb">
-<img src="https://img.shields.io/badge/LinkedIn-Rishita%20Singh-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rishPhoneix">
-<img src="https://img.shields.io/badge/GitHub-rishPhoneix-4169E1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Rishu_0827/">
-<img src="https://img.shields.io/badge/LeetCode-Rishu__0827-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/rishita_3457/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-rishita__3457-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-> **Build with curiosity. Engineer with purpose. Keep learning.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:6A0DAD,100:4B0082&height=130&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
-
