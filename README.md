@@ -383,9 +383,7 @@ Hands-on Android development experience involving Java/Kotlin, Fragment Architec
 ## Contribution Activity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/rishPhoneix/rishPhoneix/output/activity-graph.svg" width="95%" alt="GitHub Contribution Activity" />
-
+<img src="./activity-graph.svg" width="95%" alt="GitHub Contribution Activity" />
 </div>
 
 ---
