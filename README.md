@@ -9,8 +9,9 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-ECE-6A0DAD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/MAKAUT-8.21%20SGPA-4B0082?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Final%20Year-2026-4169E1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MAKAUT-2026-4B0082?style=for-the-badge&logo=bookstack&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Kolkata-West%20Bengal-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
